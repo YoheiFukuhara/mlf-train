@@ -1,2 +1,2 @@
 # mlf-train
-Check Leonardo MLF environment
+Check Leonardo MLF training service environment
