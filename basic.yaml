@@ -1,0 +1,7 @@
+job:
+  name: "test-job-20190905"
+  execution:
+    image: "com.sap.mlf/tyom-tf-1.12.0-py36-cpu"
+    command: "python3 check_env.py"
+    completionTime: "1"
+    resourcePlanId: "starter"
